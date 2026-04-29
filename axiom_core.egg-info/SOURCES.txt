@@ -1,0 +1,8 @@
+LICENSE
+README.md
+axiom.c
+setup.py
+axiom_core.egg-info/PKG-INFO
+axiom_core.egg-info/SOURCES.txt
+axiom_core.egg-info/dependency_links.txt
+axiom_core.egg-info/top_level.txt

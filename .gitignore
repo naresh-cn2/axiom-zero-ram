@@ -1,7 +1,6 @@
-*.csv
+venv/
 __pycache__/
 *.so
-build/
-dist/
-*.egg-info/
-venv/
+*.csv
+.DS_Store
+axiom/__pycache__/
